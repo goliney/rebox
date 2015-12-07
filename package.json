@@ -1,0 +1,19 @@
+{
+  "name": "rebox",
+  "version": "0.0.1",
+  "description": "Simple REST sandbox for local developments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "sandbox",
+    "local",
+    "developments",
+    "frameworks",
+    "learning"
+  ],
+  "author": "Sergey Goliney <sergey@goliney.com> (http://goliney.com)",
+  "license": "ISC"
+}
