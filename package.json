@@ -1,6 +1,6 @@
 {
   "name": "rebox",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Simple REST sandbox for local developments",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,9 @@
     "learning"
   ],
   "author": "Sergey Goliney <sergey@goliney.com> (http://goliney.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/goliney/rebox.git"
+  }
 }
